@@ -1,0 +1,2 @@
+pyserial
+-c conda-forge pyvisa
